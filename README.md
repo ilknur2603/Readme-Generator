@@ -32,7 +32,7 @@ After using the node index.js command, running the app is simple! You will be gi
 Once you answer all of the questions the README.md file will be created in the /dist folder of the project.
 This process can be seen in the GIF below. From there simply copy the README from the /dist directory
 and paste it in your new project.
-<a href
+![How it look?](https://drive.google.com/file/d/1eULUsiUdV9PzUBXC5hwxYuuTacHmO24S/view)
 
 
 
@@ -41,6 +41,8 @@ and paste it in your new project.
 BY ILKNUR DAYANC BLOOMER
 
 ##Screenshots
+![gif](https://drive.google.com/file/d/1eULUsiUdV9PzUBXC5hwxYuuTacHmO24S/view)
+
 
 ##License
 
