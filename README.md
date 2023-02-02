@@ -14,8 +14,8 @@
 
 ---
 
-##Project Name/
-README GENERATOR
+##Project Name
+>README GENERATOR
 
 ##Project Description/
 
