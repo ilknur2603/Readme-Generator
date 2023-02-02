@@ -40,7 +40,7 @@ _and paste it in your new project._
 ##Contribution
 BY ILKNUR DAYANC BLOOMER
 
-##Screenshots:Google Drive
+##Screenshots : Google Drive
 [gif](https://drive.google.com/file/d/1eULUsiUdV9PzUBXC5hwxYuuTacHmO24S/view)
 
 
