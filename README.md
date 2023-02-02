@@ -53,7 +53,7 @@ BY ILKNUR DAYANC BLOOMER
 
 ##Contact information
 
-![GitHub] (/github/followers/:user) https://github.com/ilknur2603/
+[GitHub] (/github/followers/:user) https://github.com/ilknur2603/
 ***
 E-mail:![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ilknurdayanc2603@gmail.com/
 ***
