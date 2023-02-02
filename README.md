@@ -28,7 +28,14 @@ HTML,CSS,JavaScript,BootStrap,md Cheat Sheet,JQuery,Node.JS
 npm -v 8.4.2
 
 ##Usage
-It is providing to create professional README.md file
+After using the node index.js command, running the app is simple! You will be given a number of prompts to answer.
+Once you answer all of the questions the README.md file will be created in the /dist folder of the project.
+This process can be seen in the GIF below. From there simply copy the README from the /dist directory
+and paste it in your new project.
+<a href
+
+
+
 
 ##Contribution
 BY ILKNUR DAYANC BLOOMER
@@ -41,11 +48,11 @@ BY ILKNUR DAYANC BLOOMER
 
 ##Contact information
 
-![GitHub] (/github/followers/:user?label=Follow ) https://github.com/ilknur2603
+![GitHub] (/github/followers/:user) https://github.com/ilknur2603
 E-mail:![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ilknurdayanc2603@gmail.com
 Linkedn![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/feed/?trk=404_page
 Twitter![Twitter](https://img.shields.io/twitter/url?style=social) https://twitter.com/home
 Slack![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) Ilknur Dayanc Bloomer
 
 ##Test
-Yes
+
