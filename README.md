@@ -14,17 +14,17 @@
 
 ---
 
-##Project Name
+##Project Name/
 README GENERATOR
 
-##Project Description
+##Project Description/
 
 Creating Readme.md fil with /high quality
 
-#Technologies Used
+#Technologies Used/
 HTML,CSS,JavaScript,BootStrap,md Cheat Sheet,JQuery,Node.JS
 
-##Installation
+##Installation/
 npm -v 8.4.2
 
 ##Usage
