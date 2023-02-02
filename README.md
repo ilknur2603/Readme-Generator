@@ -14,24 +14,24 @@
 
 ---
 
-##Project Name
-*README GENERATOR
+##Project Name :
+_*README GENERATOR_
 
 ##Project Description
 
-*Creating Readme.md fil with /high quality
+_*Creating Readme.md file with high quality_
 
-#Technologies Used/
-*HTML,CSS,JavaScript,BootStrap,md Cheat Sheet,JQuery,Node.JS
+#Technologies Used : 
+_*HTML,CSS,JavaScript,BootStrap,md Cheat Sheet,JQuery,Node.JS_
 
-##Installation/
-npm -v 8.4.2
+##Installation : 
+_npm -v 8.4.2_
 
 ##Usage
-*After using the node index.js command, running the app is simple! You will be given a number of prompts to answer.
-*Once you answer all of the questions the README.md file will be created in the /dist folder of the project.
-*This process can be seen in the GIF below. From there simply copy the README from the /dist directory
-*and paste it in your new project.
+_After using the node index.js command, running the app is simple! You will be given a number of prompts to answer._
+_Once you answer all of the questions the README.md file will be created in the /dist folder of the project._
+_This process can be seen in the GIF below. From there simply copy the README from the /dist directory_
+_and paste it in your new project._
 [How it look?](https://drive.google.com/file/d/1ejnzKxxUaQMYWcuJ6-hsm4rKb-O2fmBb/view)
 ![README GENERATOR](https://github.com/ilknur2603/Readme-Generator/blob/main/assets/Screenshot/readme.genarator.gif)
 
