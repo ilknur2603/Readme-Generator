@@ -33,7 +33,7 @@ Once you answer all of the questions the README.md file will be created in the /
 This process can be seen in the GIF below. From there simply copy the README from the /dist directory
 and paste it in your new project.
 [How it look?](https://drive.google.com/file/d/1ejnzKxxUaQMYWcuJ6-hsm4rKb-O2fmBb/view)
-
+![README GENERATOR](https://github.com/ilknur2603/Readme-Generator/blob/main/assets/Screenshot/readme.genarator.gif)
 
 
 
