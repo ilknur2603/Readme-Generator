@@ -53,11 +53,17 @@ BY ILKNUR DAYANC BLOOMER
 
 ##Contact information
 
-![GitHub] (/github/followers/:user) https://github.com/ilknur2603
-E-mail:![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ilknurdayanc2603@gmail.com
-Linkedn![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/feed/?trk=404_page
-Twitter![Twitter](https://img.shields.io/twitter/url?style=social) https://twitter.com/home
-Slack![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) Ilknur Dayanc Bloomer
+![GitHub] (/github/followers/:user) https://github.com/ilknur2603/
+***
+E-mail:![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ilknurdayanc2603@gmail.com/
+***
+Linkedn![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/feed/?trk=404_page/
+***
+Twitter![Twitter](https://img.shields.io/twitter/url?style=social) https://twitter.com/home/
+***
+Slack![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)/
+***
+Ilknur Dayanc Bloomer
 
 ##Test
 
