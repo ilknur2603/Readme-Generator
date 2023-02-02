@@ -42,7 +42,7 @@ BY ILKNUR DAYANC BLOOMER
 
 ##Screenshots
 ![gif](https://drive.google.com/file/d/1eULUsiUdV9PzUBXC5hwxYuuTacHmO24S/view)
-
+![gif](https://watch.screencastify.com/v/Yx5nFjnnP85Qu8YOWJ2p)
 
 ##License
 
